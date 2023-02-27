@@ -1,6 +1,7 @@
 {
   "ExampleSettings": {
       "Setting1": "SETTING_1",
-      "Setting2": "SETTING_2"
+      "Setting2": "SETTING_2",
+      "Setting3": "SETTING_3"
   }
 }
